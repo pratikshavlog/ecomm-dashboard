@@ -6,7 +6,26 @@
   height: 40vmin;
   pointer-events: none;
 }
+.nav{
+  padding: 20px;
+  margin-left: 40px;
+  
+}
+.linktext{
+  color: #1b418b;
+  font-size: large;
+  border: #61dafb solid 2px;
+  padding: 15px;
+  background-color: aqua;
 
+
+}
+li{
+  display: inline;
+  padding:30px;
+  
+  
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
